@@ -1,0 +1,134 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316600/316605.png",
+    "role": "Batsman",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Medium",
+    "biddingPrice": 1500000,
+    "rating": 92
+  },
+  {
+    "playerId": 2,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316500/316534.png",
+    "role": "All-Rounder",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "Right-arm Fast-medium",
+    "biddingPrice": 1250000,
+    "rating": 88
+  },
+  {
+    "playerId": 3,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/322600/322694.png",
+    "role": "Bowler",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Leg-break",
+    "biddingPrice": 1100000,
+    "rating": 90
+  },
+  {
+    "playerId": 4,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/320400/320448.png",
+    "role": "Batsman",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Off-break",
+    "biddingPrice": 1350000,
+    "rating": 91
+  },
+  {
+    "playerId": 5,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316500/316584.png",
+    "role": "All-Rounder",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Off-break",
+    "biddingPrice": 950000,
+    "rating": 86
+  },
+  {
+    "playerId": 6,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316400/316486.png",
+    "role": "Bowler",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Fast",
+    "biddingPrice": 1400000,
+    "rating": 94
+  },
+  {
+    "playerId": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316500/316573.png",
+    "role": "All-Rounder",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "Left-arm Spinner",
+    "biddingPrice": 1150000,
+    "rating": 89
+  },
+  {
+    "playerId": 8,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316500/316514.png",
+    "role": "Batsman",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Off-break",
+    "biddingPrice": 1050000,
+    "rating": 87
+  },
+  {
+    "playerId": 9,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316500/316591.png",
+    "role": "Bowler",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Fast",
+    "biddingPrice": 1300000,
+    "rating": 91
+  },
+  {
+    "playerId": 10,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316600/316616.png",
+    "role": "Wicketkeeper",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "N/A",
+    "biddingPrice": 980000,
+    "rating": 85
+  },
+  {
+    "playerId": 11,
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316600/316682.png",
+    "role": "All-Rounder",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Leg-break",
+    "biddingPrice": 850000,
+    "rating": 84
+  },
+  {
+    "playerId": 12,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "image": "https://p.imgci.com/db/PICTURES/CMS/316500/316588.png",
+    "role": "Bowler",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "Left-arm Fast",
+    "biddingPrice": 1200000,
+    "rating": 88
+  }
+]
