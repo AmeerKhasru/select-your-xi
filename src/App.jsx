@@ -10,7 +10,7 @@ const playersPromise = fetch('/Players.json').then(res => res.json());
 
 function App() {
   // 1. State Management
-  const [coins, setCoins] = useState(6000000);
+  const [coins, setCoins] = useState(8000000);
   const [selectedPlayers, setSelectedPlayers] = useState([]);
   const [activeTab, setActiveTab] = useState('available'); // 'available' or 'selected'
 
